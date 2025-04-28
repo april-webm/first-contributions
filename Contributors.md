@@ -2445,4 +2445,4 @@ Matthew Burgos
 - [Sai Teja](https://github.com/klu2300090005)
 - [Kim Songmok](https://github.com/klu2300090005)
 - [Mirmovsum Abasov](https://github.com/mirmovsum-abasov)
-- April Kidd
+- [April Kidd](https://github.com/april-webm/)
